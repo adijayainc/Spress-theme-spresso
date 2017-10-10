@@ -3,6 +3,8 @@ layout: "post"
 title: "Welcome to Kaypuna Corp."
 categories: [about]
 tags: ["webhosting", "artificial"]
+header_img:
+  url: "http://www.blogs.or.id/assets/img/about-bg.jpg"
 ---
 Selamat datang di Kaypuna Corp.
 ini adalah percobaan untuk post , melalui github , sehingga kemanapun hosting, tetap mempunyai tampilan yang sama 
