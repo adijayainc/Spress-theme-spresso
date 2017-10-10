@@ -9,6 +9,8 @@ header_img:
 Selamat datang di Kaypuna Corp.
 ini adalah percobaan untuk post , melalui github , sehingga kemanapun hosting, tetap mempunyai tampilan yang sama 
 
+![Spresso theme preview](/screenshot.png)
+
 * [Spress](http://spress.yosymfony.com)
 * [Github](http://github.com/spress)
 
