@@ -1,9 +1,9 @@
-title: "Welcome to Spress"
-description: "A site created by Spress"
+title: "Welcome to Kaypuna Corp."
+description: "Live along with Artificial Intelegent"
 logo: "spresso-logo.png"
 
 # Your site's domain. E.g: http://yoursite.com
-url: ""
+url: "http://www.kaypuna.com"
 
 parsedown_actived: true
 
@@ -14,7 +14,7 @@ comments:
 
 # Information about author
 author:
-    name: "Your Name"
+    name: "adijaya"
 
     # Social networks
     twitter: "spress_cms"
