@@ -9,7 +9,7 @@ ini adalah percobaan untuk post , melalui github , sehingga kemanapun hosting, t
 
 ![Spresso theme preview](/screenshot.png)
 
-  url: "http://www.blogs.or.id/assets/img/about-bg.jpg"
+  img:"http://www.blogs.or.id/assets/img/about-bg.jpg"
   
 * [Spress](http://spress.yosymfony.com)
 * [Github](http://github.com/spress)
