@@ -7,7 +7,7 @@ tags: ["webhosting", "artificial"]
 Selamat datang di Kaypuna Corp.
 ini adalah percobaan untuk post , melalui github , sehingga kemanapun hosting, tetap mempunyai tampilan yang sama 
 
-<p><img class="img-responsive" src="/assets/img/screenshot.jpg"></p>
+<p><img class="img-responsive" src="http://www.blogs.or.id/assets/img/about-bg.jpg"></p>
   img:"http://www.blogs.or.id/assets/img/about-bg.jpg"
   
 * [Spress](http://spress.yosymfony.com)
